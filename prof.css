@@ -1,0 +1,111 @@
+body{
+    margin:0;
+    padding:0;
+    color:white;
+    background-size:cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url("prof.jpg");
+    
+
+}
+header{
+display:flex;
+justify-content:space-between;
+color:white;
+padding:5px 15px;
+}
+
+li{ 
+display:inline;
+padding:15px;
+}
+a{
+text-decoration:none;
+color:wheat;
+}
+
+h1{
+    font-size:80px;
+    text-align: left;
+    margin:110px 180px 10px ;
+    color: rgb(206, 105, 27);
+    
+}
+h2{
+    text-align: left;
+    margin-left: 200px;
+    font-size: 30px;
+    color: wheat;
+}
+h3{
+    text-align: center;
+    color: rgb(228, 156, 100);
+    font-size: 25PX;
+    
+    }
+
+
+.login-page {
+width: 100%;
+align-items: center;
+display: flex;
+justify-content: left;
+
+
+}
+
+.form input {
+    outline: 0;
+    background: #c8c8c8;
+    border-radius: 4px;
+    width: 90%;
+    border: 0;
+    margin: 15px 0;
+    padding: 15px;
+    font-size: 14px;
+    } 
+
+    .about{
+        font-size: 15px;
+        
+        }
+
+.form1 {
+position: relative;
+filter:drop-shadow(0 0 2px #000000);
+border-radius: 5px;
+width: 250px;
+position: fixed;
+height: 250px;
+background-color: #9696967f;
+padding:40px;
+margin-top: 390px;
+margin-left: 180px;
+}
+
+.form2{
+position: relative;
+filter:drop-shadow(0 0 2px #000000);
+border-radius: 5px;
+width: 250px;
+position: fixed;
+height: 250px;
+background-color: #9696967f;
+padding:40px;
+margin-top: 390px;
+margin-left: 565px;
+
+}
+
+.form3{
+position: relative;
+filter:drop-shadow(0 0 2px #000000);
+border-radius: 5px;
+width: 250px;
+position: fixed;
+height: 250px;
+background-color: #9696967f;
+padding:40px;
+margin-top: 390px;
+margin-left: 950px;
+
+}
